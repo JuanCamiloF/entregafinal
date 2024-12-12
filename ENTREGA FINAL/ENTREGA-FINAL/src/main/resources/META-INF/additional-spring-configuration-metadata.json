@@ -1,0 +1,32 @@
+{"properties": [
+  {
+    "name": "spring.datasources.username",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasources.username'"
+  },
+  {
+    "name": "spring.datasources.driver-class-name",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasources.driver-class-name'"
+  },
+  {
+    "name": "spring.datasources.password",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasources.password'"
+  },
+  {
+    "name": "spring.datasources.url",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasources.url'"
+  },
+  {
+    "name": "gg.jte.development-mode",
+    "type": "java.lang.String",
+    "description": "A description for 'gg.jte.development-mode'"
+  },
+  {
+    "name": "gg.jte.development-mode",
+    "type": "java.lang.String",
+    "description": "A description for 'gg.jte.development-mode'"
+  }
+]}
